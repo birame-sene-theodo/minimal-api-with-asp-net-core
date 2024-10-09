@@ -10,7 +10,6 @@
 /Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/TodoApi.AssemblyInfo.cs
 /Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/TodoApi.csproj.CoreCompileInputs.cache
 /Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
-/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/TodoApi.sourcelink.json
 /Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/staticwebassets.build.json
 /Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/staticwebassets.development.json
 /Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/staticwebassets/msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -24,3 +23,17 @@
 /Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/TodoApi.pdb
 /Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/TodoApi.genruntimeconfig.cache
 /Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/ref/TodoApi.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/TodoApi.csproj.AssemblyReference.cache
+/Users/birrame.sene/workspace/theodo/minimal-api-with-asp-net-core/TodoApi/TodoApi/obj/Debug/net8.0/TodoApi.csproj.Up2Date
